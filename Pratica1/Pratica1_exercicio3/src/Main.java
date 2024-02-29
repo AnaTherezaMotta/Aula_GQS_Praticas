@@ -7,7 +7,7 @@ public class Main {
         double salario;
         double qtn_salario_min;
 
-        System.out.println("Digite o salario mínimo: ");
+        System.out.println("Digite o valor do salario mínimo: ");
         salario_min = input.nextInt();
         System.out.println("Digite o valor do seu salario: ");
         salario = input.nextInt();
